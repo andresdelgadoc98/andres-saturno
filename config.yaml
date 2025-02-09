@@ -122,7 +122,7 @@ params:
     enable: true
     intro: "Hola!, mi nombre es"
     title: "Andrés Delgado."
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly"
     image: /images/yo2.png
     bottomImage:
       enable: false
