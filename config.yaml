@@ -46,8 +46,8 @@ menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Andrés Delgado"
+  description: Apasionado por la Inteligencia Artificial y el Desarollo de Software
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
