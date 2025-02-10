@@ -161,7 +161,6 @@ params:
         - "JavaScript"
         - "React"
         - "Node"
-        - "Express"
 
   # Experience
   experience:
