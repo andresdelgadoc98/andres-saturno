@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://www.saturnodelgado.com/"
 languageCode: "es-mx"
 title: "Andrés Delgado Desarollador"
 theme: hugo-profile
@@ -120,9 +120,9 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hola!, mi nombre es"
+    intro: "Hola! Soy Master en Ciencias de la Computación y mi Nombre es:"
     title: "Andrés Delgado."
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly"
+    content: "Un apasionado desarrollador de Inteligencia Artificial. Desarrollo algoritmos de Machine Learning hasta implementación de modelos de lenguaje (LLMs) como ChatGPT. "
     image: /images/yo2.png
     bottomImage:
       enable: false
@@ -168,7 +168,7 @@ params:
     enable: true
     title: "Experiencia"
     items:
-      - job: "Machine Learning Engineree"
+      - job: "Machine Learning Engineer"
         company: "Grupo Susess"
         companyUrl: "https://susess.com"
         date: "Octubre 2024 - Presente"
@@ -176,22 +176,53 @@ params:
           enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content:
+          Es mi actual trabajo en dónde desempeño el rol de Machine Learing Engineer, desarollando principalmente solución en modelos de lenguaje natural como ChatGPT, LLama, Gemma
 
-      - job: "Project Manager/Developer"
-        company: "Geo Estratos Soluciones / Oil Assement Express"
+          - Agente ChatBot para la búsqueda de información en bilbioteca de documentos.
+
+          - Algoritmo para la Clasificación automaticamenta de documentos.
+
+      - job: "Project Manager Developer"
+        company: "Geo Estratos Soluciones - Oil Assement Express"
+        companyUrl: "#"
         date: "Diciembre 2020 - Octubre 2024"
+        info:
+          enable: false
+        featuredLink:
+          enable: false
+          url: "https://example.com"
+        content: |
+          En esta empresa trabaje junto a especialistas en Geología, Electrónica, Petrolera, Agriculturores para el desarollo de sistemas que permitan mejorar la producción, 
+          centrado principalmente en las tecnologías IoT (Internet de las Cosas)
+
+          - Sistema de dómtica: Sistema Completo en dónde interactuaba una App con sensores.
+          - Recolector de variables para agricultura: Bastón inalámbrico capaz de medir variables del suelo y ambientales conectado através de una APP
+          - Aplicación Móvil para Telemetría:  Aplicación capaz de controlar electroválvulas para multiples usos
+          - Aplicación Web Para Telemetría:  Aplicación web capaz de monitorear sensores en tiempo real orientado a Pozos Petroleros
+          - Desarollo de  Gateway con Microcontrolador ESP32: Desarollo Tecnológico de una gateway capaz de recoletar y enviar señales de sensores vía inalmbrica a un servidor remoto.
+          - Reporte Geociencias para datos de perforaciónde pozos: Desarollo de una plataforma para la subida de información de pozos petroleros
+          - Algoritmo de Clasificación de Flujos de Aire y Agua Basado en Vibraciones: Investigación para el desarollo de algoritmos capaz de disernir entre varios Fluidos.
+          - Predicción del precio de tomate mediante series de tiempo: Algoritmo de predicción para pronosticar el precio del tomate a lo largo del tiempo
+          - Predicción de filtración de agua en pozos petroleros: Proyecto basado en datos historicos de un Pozo para determinar la cantidad de Flujo a extraer para minimizar la filtración de agua.
+          - Predicción de Cimas Geológica: Desarollo de algoritmos para la predicción de un acercamiento a una cima o evento geologíco en perforación
+
+      - job: "Educación"
+        company: "Instituto Tecnologíco de Ciudad Madero"
+        companyUrl: "#"
+        date: "Junio 2016 - Diciembre 2024"
+        info:
+          enable: false
         featuredLink:
           enable: false
           url: "#"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          Serie de trabajos terminados para clases de Ingeniería y Maestría
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          -Clasificación de fallas de motores
+          -Analisis de Sentimientos de canciones
+          -ChatBot conectado a Sensores.
+          -Clasificación de hojas de plantas
 
       - job: "Developer"
         company: "Free Lancer"
@@ -203,9 +234,8 @@ params:
           enable: false
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          Fue mi primer contacto con Clientes, en donde desarolle una App para el manejor de repartidores, obteniendo la oportunidad de aprender el levantamiento de requisitos y trato con el cliente
+          - App de manejor de rutas.
 
   education:
     enable: true
@@ -219,9 +249,10 @@ params:
         date: "2022 - 2024"
 
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Actividades Importantes: 
+            - Tesis: "Análisis Computacional para la Clasificación de Fluidos Mediante Vibraciones yHerramientas de Aprendizaje Automatizado" 
+            - Conferencia: "Clasificación de Fluidos mediante Vibraciones y Aprendizaje Automático". en Cd. Victoria." En noviembre del 2023  Encuentro de Jóvenes Investigadores
+            - Taller:  "Ciencia de Datos aplicado a Química" congreso de CONEIQ 2024
 
       - title: "Ingeniería en Sistemas Computacionales"
         school:
@@ -229,13 +260,9 @@ params:
           url: "https://www.cdmadero.tecnm.mx"
         date: "2016 - 2020"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Actividades Importantes: 
+            - Desarollo de Bastón Agricola.
 
   # projects
   projects:
