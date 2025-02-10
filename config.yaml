@@ -218,10 +218,13 @@ params:
         content: |
           Serie de trabajos terminados para clases de Ingeniería y Maestría
 
-          -Clasificación de fallas de motores
-          -Analisis de Sentimientos de canciones
-          -ChatBot conectado a Sensores.
-          -Clasificación de hojas de plantas
+          - Clasificación de fallas de motores.
+
+          - Analisis de Sentimientos de canciones.
+
+          - ChatBot conectado a Sensores.
+
+          - Clasificación de hojas de plantas.
 
       - job: "Developer"
         company: "Free Lancer"
