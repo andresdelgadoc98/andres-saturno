@@ -130,7 +130,7 @@ params:
     button:
       enable: true
       name: "Curriculum Vitae (CV)"
-      url: "#"
+      url: "curriculum.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -264,7 +264,6 @@ params:
           Actividades Importantes: 
             - Desarollo de Bastón Agricola.
 
-  # projects
   projects:
     enable: true
     title: "Projects Recientes"
