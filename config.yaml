@@ -23,9 +23,13 @@ markup:
       unsafe: true
 
 # Menus eliminados o sección vacía
-menus:
+Menus:
   main:
-    []
+    - identifier: Proyectos
+      name: Proyectos
+      title: Proyectos
+      url: /Proyectos
+      weight: 1
 
     #Dropdown menu
     # - identifier: dropdown
@@ -68,7 +72,7 @@ params:
   animate: true
 
   theme:
-    # disableThemeToggle: true
+    disableThemeToggle: true
     defaultTheme: dark # "light"
 
   font:
@@ -252,7 +256,7 @@ params:
 
         content: |-
           Actividades Importantes: 
-            - Tesis: "Análisis Computacional para la Clasificación de Fluidos Mediante Vibraciones yHerramientas de Aprendizaje Automatizado" 
+            - Tesis: "Análisis Computacional para la Clasificación de Fluidos Mediante Vibraciones y Herramientas de Aprendizaje Automatizado" 
             - Conferencia: "Clasificación de Fluidos mediante Vibraciones y Aprendizaje Automático". en Cd. Victoria." En noviembre del 2023  Encuentro de Jóvenes Investigadores
             - Taller:  "Ciencia de Datos aplicado a Química" congreso de CONEIQ 2024
 

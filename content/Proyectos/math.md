@@ -11,6 +11,7 @@ image: /images/mathjax.png
 description: ""
 toc: true
 mathjax: true
+categories: ["Geo Estratos"]
 ---
 
 ## Mathjax
@@ -21,7 +22,7 @@ Optionally enable this on a per-page basis by adding `mathjax: true` to your fro
 
 Then, use `$$ ... $$` on a line by itself to render a block equation:
 
-$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | < \text{negligible} $$
+$$ | Pr*{x \leftarrow P*{1}} [A(x) = 1] - Pr*{x \leftarrow P*{2}} [A(x) = 1] | < \text{negligible} $$
 
 The raw version is:
 
@@ -29,10 +30,8 @@ The raw version is:
 $$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | < \text{negligible} $$
 ```
 
-
 Write in-line equations with `\\( ... \\)` , like \\( x^n / y \\) . It's easy!
 
 ```
 Write in-line equations with `\\( ... \\)` , like \\( x^n / y \\) . It's easy!
 ```
-
