@@ -42,4 +42,4 @@ _Fig. 1: Flujo de interacción del ChatBot Inteligente Pantadocs_
 
 ## ¿Cómo empezar a usarlo?
 
-Pantadocs está diseñado para ser accesible y fácil de usar. Si eres parte de un equipo técnico o simplemente necesitas respuestas rápidas, este chatbot puede ser tu mejor aliado. ¡Prueba Pantadocs y descubre cómo la IA puede simplificar tu trabajo!
+Pantadocs está diseñado para ser accesible y fácil de usar. Si eres parte de un equipo técnico o simplemente necesitas respuestas rápidas, este chatbot puede ser tu mejor aliado. ¡Prueba Pantadocs y descubre cómo la IA puede simplificar tu trabajo!!!

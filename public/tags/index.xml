@@ -9,24 +9,31 @@
     <lastBuildDate>Mon, 03 Apr 2023 23:29:21 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example</title>
-      <link>http://localhost:1313/tags/example/</link>
+      <title>Geo Ciencias</title>
+      <link>http://localhost:1313/tags/geo-ciencias/</link>
       <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/tags/example/</guid>
+      <guid>http://localhost:1313/tags/geo-ciencias/</guid>
       <description></description>
     </item>
     <item>
-      <title>Markdown Syntax</title>
-      <link>http://localhost:1313/tags/markdown-syntax/</link>
+      <title>Node Js</title>
+      <link>http://localhost:1313/tags/node-js/</link>
       <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/tags/markdown-syntax/</guid>
+      <guid>http://localhost:1313/tags/node-js/</guid>
       <description></description>
     </item>
     <item>
-      <title>Sample</title>
-      <link>http://localhost:1313/tags/sample/</link>
+      <title>React</title>
+      <link>http://localhost:1313/tags/react/</link>
       <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/tags/sample/</guid>
+      <guid>http://localhost:1313/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reporte</title>
+      <link>http://localhost:1313/tags/reporte/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/tags/reporte/</guid>
       <description></description>
     </item>
     <item>
@@ -37,6 +44,13 @@
       <description></description>
     </item>
     <item>
+      <title>Aplicación</title>
+      <link>http://localhost:1313/tags/aplicaci%C3%B3n/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/aplicaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>ChatBot</title>
       <link>http://localhost:1313/tags/chatbot/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
@@ -44,10 +58,31 @@
       <description></description>
     </item>
     <item>
-      <title>Mathjax</title>
-      <link>http://localhost:1313/tags/mathjax/</link>
+      <title>Clasificador</title>
+      <link>http://localhost:1313/tags/clasificador/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/tags/mathjax/</guid>
+      <guid>http://localhost:1313/tags/clasificador/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Domótica</title>
+      <link>http://localhost:1313/tags/dom%C3%B3tica/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/dom%C3%B3tica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inteligencia Artificial</title>
+      <link>http://localhost:1313/tags/inteligencia-artificial/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/inteligencia-artificial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iot</title>
+      <link>http://localhost:1313/tags/iot/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/iot/</guid>
       <description></description>
     </item>
     <item>
@@ -58,17 +93,38 @@
       <description></description>
     </item>
     <item>
-      <title>Placeholder Text</title>
-      <link>http://localhost:1313/tags/placeholder-text/</link>
+      <title>Redes Neuronales</title>
+      <link>http://localhost:1313/tags/redes-neuronales/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/tags/placeholder-text/</guid>
+      <guid>http://localhost:1313/tags/redes-neuronales/</guid>
       <description></description>
     </item>
     <item>
-      <title>Emoji Support</title>
-      <link>http://localhost:1313/tags/emoji-support/</link>
+      <title>Tesis</title>
+      <link>http://localhost:1313/tags/tesis/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/tesis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android Studio</title>
+      <link>http://localhost:1313/tags/android-studio/</link>
       <pubDate>Fri, 03 Apr 2020 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/emoji-support/</guid>
+      <guid>http://localhost:1313/tags/android-studio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>App</title>
+      <link>http://localhost:1313/tags/app/</link>
+      <pubDate>Fri, 03 Apr 2020 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/tags/app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rutas</title>
+      <link>http://localhost:1313/tags/rutas/</link>
+      <pubDate>Fri, 03 Apr 2020 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/tags/rutas/</guid>
       <description></description>
     </item>
   </channel>
