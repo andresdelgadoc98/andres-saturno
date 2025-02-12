@@ -11,7 +11,7 @@ tags:
 image: /images/post.jpg
 description: ""
 toc:
-categories: ["Instituto Tecnológico de Ciudad Madero"]
+categories: ["D -  Instituto Tecnológico de Ciudad Madero"]
 ---
 
 Lorem est tota propiore conpellat pectoribus de pectora summo.

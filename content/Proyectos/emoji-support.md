@@ -1,6 +1,6 @@
 ---
 title: "Emoji Support"
-date: 2021-04-03T22:53:58+05:30
+date: 2020-04-03T22:53:58+05:30
 draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "Gurusabarish"
@@ -11,7 +11,7 @@ tags:
 image: /images/post.jpg
 description: ""
 toc:
-categories: ["Grupo Susess"]
+categories: ["E - FreeLancer"]
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways. :zap:

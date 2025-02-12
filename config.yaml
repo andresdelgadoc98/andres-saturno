@@ -1,4 +1,4 @@
-baseURL: "https://www.saturnodelgado.com/"
+baseURL: "https://www.andres-delgado.com/"
 languageCode: "es-mx"
 title: "Andrés Delgado Desarollador"
 theme: hugo-profile
@@ -336,7 +336,7 @@ params:
 
   # For translations
   terms:
-    read: "Read"
+    read: "Ver Más"
     toc: "Table Of Contents"
     copyright: "All rights reserved"
     pageNotFound: "Page not found"
