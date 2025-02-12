@@ -10,5 +10,5 @@ tags:
 image: /images/projects/rutas.png
 description: "Generador de Rutas automático incluye Generador de Reportes y envio al correo electrónico, además de check in a sursales"
 toc:
-categories: ["E - FreeLancer"]
+categories: ["E - FreeLancer / Propios"]
 ---
