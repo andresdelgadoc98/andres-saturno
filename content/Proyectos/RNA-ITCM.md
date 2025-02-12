@@ -2,7 +2,7 @@
 title: Clasificador Fluidos"
 date: 2021-04-03T22:41:10+05:30
 draft: false
-author: "Gurusabarish"
+author: "Andrés"
 tags:
   - Redes Neuronales
   - Inteligencia Artificial
