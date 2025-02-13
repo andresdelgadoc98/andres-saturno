@@ -8,7 +8,8 @@ tags:
   - Sensores
   - App
   - Arduino
-image:
+image: /images/projects/arduino.png
+
 description: "Aplicación conectada a un ChatBot para la obtención de datos de sensores"
 toc:
 categories: ["D -  Instituto Tecnológico de Ciudad Madero"]

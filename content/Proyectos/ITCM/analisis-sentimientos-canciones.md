@@ -7,8 +7,8 @@ tags:
   - Analisis de Sentimientos
   - Inteligencia Artificial
   - Python
-image:
-description: "Analisis de Sentimientos de Artistas basado en letras de canciones"
+image: /images/projects/analisis-sentimientos.jpeg
+description: "Analanalisis-sentimientos.jpegisis de Sentimientos de Artistas basado en letras de canciones"
 toc:
 categories: ["D -  Instituto Tecnológico de Ciudad Madero"]
 ---

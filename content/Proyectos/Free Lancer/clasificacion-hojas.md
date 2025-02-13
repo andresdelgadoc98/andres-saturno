@@ -9,8 +9,8 @@ tags:
   - Plantas
   - App
   - Android Studio
-image:
+image: /images/projects/hojas.png
 description: "Aplicación para el Reconocimiento de hojas basado en Computing Vision desarollado en Android Studio"
 toc:
-categories: ["D -  Instituto Tecnológico de Ciudad Madero"]
+categories: ["E - FreeLancer / Propios"]
 ---

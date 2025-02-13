@@ -7,7 +7,7 @@ tags:
   - Clasificación
   - Redes Neuronales
   - Python
-image:
+image: /images/projects/geologia.jpg
 description: "Algoritmo basado en datos Geológicos, Mecanicos y Físicos para la detección de entrada a cimas geológicas ó eventos de interés a la hora de la perforación"
 toc:
 categories: ["C - Oil Assement"]

@@ -7,7 +7,7 @@ tags:
   - Clasificación
   - Redes Neuronales
   - Python
-image:
+image: /images/projects/series-tiempo.png
 description: "Descarga mediante Web Scrapping del precio del tomate sumado a un algorimto basado en series temporales para predecir el precio del tomate a lo largo del año"
 toc:
 categories: ["C - Oil Assement"]

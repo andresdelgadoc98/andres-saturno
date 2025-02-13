@@ -7,7 +7,7 @@ tags:
   - Clasificación
   - Redes Neuronales
   - Python
-image:
+image: /images/projects/filtrado-agua.jpeg
 description: "Algoritmo basado en datos historicos de pozos para realizar un pronostico de filtrado de agua"
 toc:
 categories: ["C - Oil Assement"]

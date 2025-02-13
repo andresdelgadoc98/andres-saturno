@@ -7,8 +7,10 @@ tags:
   - Clasificación
   - Redes Neuronales
   - Python
-image:
+image: /images/projects/oleoducto.jpg
 description: "Investigación para el desarollo de un algoritmo capaz de clasificar fluidos gaseos y líquidos"
 toc:
 categories: ["C - Oil Assement"]
 ---
+
+3

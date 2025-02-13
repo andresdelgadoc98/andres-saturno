@@ -7,7 +7,7 @@ tags:
   - Aprendizaje Automático
   - Inteligencia Artificial
   - Python
-image:
+image: /images/projects/motores.jpeg
 description: "Elaboración de un algoritmo basado en el voltaje de motores para la predicción de fallos"
 toc:
 categories: ["D -  Instituto Tecnológico de Ciudad Madero"]
