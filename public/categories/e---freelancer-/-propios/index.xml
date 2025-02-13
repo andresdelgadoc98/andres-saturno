@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/categories/e---freelancer-/-propios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rutas App</title>
-      <link>http://localhost:1313/proyectos/rutas/</link>
+      <link>http://localhost:1313/proyectos/free-lancer/rutas/</link>
       <pubDate>Fri, 03 Apr 2020 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/rutas/</guid>
+      <guid>http://localhost:1313/proyectos/free-lancer/rutas/</guid>
       <description></description>
     </item>
   </channel>

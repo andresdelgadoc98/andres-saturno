@@ -9,17 +9,17 @@
     <lastBuildDate>Mon, 03 Apr 2023 23:29:21 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Optimización Diseño&#34;</title>
-      <link>http://localhost:1313/proyectos/optimizacion-dise%C3%B1o/</link>
+      <title>Optimización Diseño</title>
+      <link>http://localhost:1313/proyectos/oil-assement/optimizacion-dise%C3%B1o/</link>
       <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/optimizacion-dise%C3%B1o/</guid>
+      <guid>http://localhost:1313/proyectos/oil-assement/optimizacion-dise%C3%B1o/</guid>
       <description></description>
     </item>
     <item>
       <title>Reporte Diario</title>
-      <link>http://localhost:1313/proyectos/reporte-diario/</link>
+      <link>http://localhost:1313/proyectos/oil-assement/reporte-diario/</link>
       <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/reporte-diario/</guid>
+      <guid>http://localhost:1313/proyectos/oil-assement/reporte-diario/</guid>
       <description></description>
     </item>
     <item>
@@ -31,44 +31,114 @@
     </item>
     <item>
       <title>Agente Tommy</title>
-      <link>http://localhost:1313/proyectos/tommy-bot/</link>
+      <link>http://localhost:1313/proyectos/susess/tommy-bot/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/tommy-bot/</guid>
+      <guid>http://localhost:1313/proyectos/susess/tommy-bot/</guid>
       <description>&lt;h1 id=&#34;chatbot-inteligente-pantadocs-tu-asistente-técnico-basado-en-ia&#34;&gt;ChatBot Inteligente Pantadocs: Tu Asistente Técnico Basado en IA&lt;/h1&gt;&#xA;&lt;p&gt;En el mundo de la tecnología, los chatbots se han convertido en herramientas esenciales para brindar respuestas rápidas y precisas. &lt;strong&gt;Pantadocs&lt;/strong&gt; es un &lt;strong&gt;ChatBot inteligente&lt;/strong&gt; diseñado para ayudarte a encontrar información técnica de manera eficiente, utilizando técnicas avanzadas de inteligencia artificial (IA) y procesamiento de lenguaje natural.&lt;/p&gt;&#xA;&lt;h2 id=&#34;cómo-funciona-pantadocs&#34;&gt;¿Cómo funciona Pantadocs?&lt;/h2&gt;&#xA;&lt;p&gt;Pantadocs utiliza un sistema llamado &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt;, que combina la búsqueda de información en documentos técnicos con la capacidad de generar respuestas claras y contextualizadas. Aquí te explicamos cómo trabaja:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Bastón Agricola</title>
-      <link>http://localhost:1313/proyectos/variables-agricultura/</link>
+      <title>Analisis Canciones</title>
+      <link>http://localhost:1313/proyectos/itcm/analisis-sentimientos-canciones/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/variables-agricultura/</guid>
+      <guid>http://localhost:1313/proyectos/itcm/analisis-sentimientos-canciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>App Telemetría</title>
+      <link>http://localhost:1313/proyectos/geo-estratos/app-telemetria/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/geo-estratos/app-telemetria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bastón Agricola</title>
+      <link>http://localhost:1313/proyectos/geo-estratos/variables-agricultura/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/geo-estratos/variables-agricultura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChatBot Sensores</title>
+      <link>http://localhost:1313/proyectos/itcm/chatbot-sensores/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/itcm/chatbot-sensores/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cimas Geológicas</title>
+      <link>http://localhost:1313/proyectos/oil-assement/prediccion-cimas/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/oil-assement/prediccion-cimas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clasificación Fluidos</title>
+      <link>http://localhost:1313/proyectos/oil-assement/clasificacion-fluidos/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/oil-assement/clasificacion-fluidos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clasificación Hojas</title>
+      <link>http://localhost:1313/proyectos/itcm/clasificacion-hojas/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/itcm/clasificacion-hojas/</guid>
       <description></description>
     </item>
     <item>
       <title>Clasificador Documentos</title>
-      <link>http://localhost:1313/proyectos/clasification-documentos/</link>
+      <link>http://localhost:1313/proyectos/susess/clasification-documentos/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/clasification-documentos/</guid>
+      <guid>http://localhost:1313/proyectos/susess/clasification-documentos/</guid>
       <description>&lt;h1 id=&#34;chatbot-inteligente-pantadocs-tu-asistente-técnico-basado-en-ia&#34;&gt;ChatBot Inteligente Pantadocs: Tu Asistente Técnico Basado en IA&lt;/h1&gt;&#xA;&lt;p&gt;En el mundo de la tecnología, los chatbots se han convertido en herramientas esenciales para brindar respuestas rápidas y precisas. &lt;strong&gt;Pantadocs&lt;/strong&gt; es un &lt;strong&gt;ChatBot inteligente&lt;/strong&gt; diseñado para ayudarte a encontrar información técnica de manera eficiente, utilizando técnicas avanzadas de inteligencia artificial (IA) y procesamiento de lenguaje natural.&lt;/p&gt;&#xA;&lt;h2 id=&#34;cómo-funciona-pantadocs&#34;&gt;¿Cómo funciona Pantadocs?&lt;/h2&gt;&#xA;&lt;p&gt;Pantadocs utiliza un sistema llamado &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt;, que combina la búsqueda de información en documentos técnicos con la capacidad de generar respuestas claras y contextualizadas. Aquí te explicamos cómo trabaja:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Clasificador Fluidos&#34;</title>
-      <link>http://localhost:1313/proyectos/rna-itcm/</link>
+      <title>Clasificador Fluidos</title>
+      <link>http://localhost:1313/proyectos/itcm/rna-itcm/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/rna-itcm/</guid>
+      <guid>http://localhost:1313/proyectos/itcm/rna-itcm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fallo Motores</title>
+      <link>http://localhost:1313/proyectos/itcm/fallo-motores/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/itcm/fallo-motores/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filtrado de Agua</title>
+      <link>http://localhost:1313/proyectos/oil-assement/prediccion-filtrado/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/oil-assement/prediccion-filtrado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gateway</title>
+      <link>http://localhost:1313/proyectos/geo-estratos/gateway/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/geo-estratos/gateway/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prediccion Tomate</title>
+      <link>http://localhost:1313/proyectos/geo-estratos/prediccion-tomate/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/geo-estratos/prediccion-tomate/</guid>
       <description></description>
     </item>
     <item>
       <title>Sistema Domótica</title>
-      <link>http://localhost:1313/proyectos/domotica/</link>
+      <link>http://localhost:1313/proyectos/geo-estratos/domotica/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/domotica/</guid>
+      <guid>http://localhost:1313/proyectos/geo-estratos/domotica/</guid>
       <description></description>
     </item>
     <item>
       <title>Rutas App</title>
-      <link>http://localhost:1313/proyectos/rutas/</link>
+      <link>http://localhost:1313/proyectos/free-lancer/rutas/</link>
       <pubDate>Fri, 03 Apr 2020 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/rutas/</guid>
+      <guid>http://localhost:1313/proyectos/free-lancer/rutas/</guid>
       <description></description>
     </item>
   </channel>

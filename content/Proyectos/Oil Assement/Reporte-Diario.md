@@ -1,5 +1,5 @@
 ---
-title: "Reporte Diario"
+title: Reporte Diario
 date: 2023-04-03T23:29:21+05:30
 draft: false
 author: "Andrés Delgado"

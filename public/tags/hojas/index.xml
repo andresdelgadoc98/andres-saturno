@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hojas on Andrés Delgado Desarollador</title>
+    <link>http://localhost:1313/tags/hojas/</link>
+    <description>Recent content in Hojas on Andrés Delgado Desarollador</description>
+    <generator>Hugo</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Sat, 03 Apr 2021 22:41:10 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hojas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clasificación Hojas</title>
+      <link>http://localhost:1313/proyectos/itcm/clasificacion-hojas/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/itcm/clasificacion-hojas/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -79,10 +79,45 @@
       <description></description>
     </item>
     <item>
+      <title>Analisis De Sentimientos</title>
+      <link>http://localhost:1313/tags/analisis-de-sentimientos/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/analisis-de-sentimientos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android Studio</title>
+      <link>http://localhost:1313/tags/android-studio/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/android-studio/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Aplicación</title>
       <link>http://localhost:1313/tags/aplicaci%C3%B3n/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
       <guid>http://localhost:1313/tags/aplicaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>App</title>
+      <link>http://localhost:1313/tags/app/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aprendizaje Automático</title>
+      <link>http://localhost:1313/tags/aprendizaje-autom%C3%A1tico/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/aprendizaje-autom%C3%A1tico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arduino</title>
+      <link>http://localhost:1313/tags/arduino/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/arduino/</guid>
       <description></description>
     </item>
     <item>
@@ -100,6 +135,13 @@
       <description></description>
     </item>
     <item>
+      <title>Clasificación</title>
+      <link>http://localhost:1313/tags/clasificaci%C3%B3n/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/clasificaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Clasificador</title>
       <link>http://localhost:1313/tags/clasificador/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
@@ -111,6 +153,27 @@
       <link>http://localhost:1313/tags/dom%C3%B3tica/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
       <guid>http://localhost:1313/tags/dom%C3%B3tica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ESP32</title>
+      <link>http://localhost:1313/tags/esp32/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/esp32/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gateway</title>
+      <link>http://localhost:1313/tags/gateway/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/gateway/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hojas</title>
+      <link>http://localhost:1313/tags/hojas/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/hojas/</guid>
       <description></description>
     </item>
     <item>
@@ -142,6 +205,20 @@
       <description></description>
     </item>
     <item>
+      <title>Plantas</title>
+      <link>http://localhost:1313/tags/plantas/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/plantas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Redes Neuronales</title>
       <link>http://localhost:1313/tags/redes-neuronales/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
@@ -149,24 +226,24 @@
       <description></description>
     </item>
     <item>
+      <title>Sensores</title>
+      <link>http://localhost:1313/tags/sensores/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/sensores/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Telemetría</title>
+      <link>http://localhost:1313/tags/telemetr%C3%ADa/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/telemetr%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tesis</title>
       <link>http://localhost:1313/tags/tesis/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
       <guid>http://localhost:1313/tags/tesis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Android Studio</title>
-      <link>http://localhost:1313/tags/android-studio/</link>
-      <pubDate>Fri, 03 Apr 2020 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/android-studio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>App</title>
-      <link>http://localhost:1313/tags/app/</link>
-      <pubDate>Fri, 03 Apr 2020 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/app/</guid>
       <description></description>
     </item>
     <item>

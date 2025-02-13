@@ -9,17 +9,31 @@
     <lastBuildDate>Sat, 03 Apr 2021 22:41:10 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/b---geo-estratos/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bastón Agricola</title>
-      <link>http://localhost:1313/proyectos/variables-agricultura/</link>
+      <title>App Telemetría</title>
+      <link>http://localhost:1313/proyectos/geo-estratos/app-telemetria/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/variables-agricultura/</guid>
+      <guid>http://localhost:1313/proyectos/geo-estratos/app-telemetria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bastón Agricola</title>
+      <link>http://localhost:1313/proyectos/geo-estratos/variables-agricultura/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/geo-estratos/variables-agricultura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gateway</title>
+      <link>http://localhost:1313/proyectos/geo-estratos/gateway/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/geo-estratos/gateway/</guid>
       <description></description>
     </item>
     <item>
       <title>Sistema Domótica</title>
-      <link>http://localhost:1313/proyectos/domotica/</link>
+      <link>http://localhost:1313/proyectos/geo-estratos/domotica/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/domotica/</guid>
+      <guid>http://localhost:1313/proyectos/geo-estratos/domotica/</guid>
       <description></description>
     </item>
   </channel>

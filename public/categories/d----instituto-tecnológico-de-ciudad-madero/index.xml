@@ -9,10 +9,38 @@
     <lastBuildDate>Sat, 03 Apr 2021 22:41:10 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/d----instituto-tecnol%C3%B3gico-de-ciudad-madero/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Clasificador Fluidos&#34;</title>
-      <link>http://localhost:1313/proyectos/rna-itcm/</link>
+      <title>Analisis Canciones</title>
+      <link>http://localhost:1313/proyectos/itcm/analisis-sentimientos-canciones/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/rna-itcm/</guid>
+      <guid>http://localhost:1313/proyectos/itcm/analisis-sentimientos-canciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChatBot Sensores</title>
+      <link>http://localhost:1313/proyectos/itcm/chatbot-sensores/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/itcm/chatbot-sensores/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clasificación Hojas</title>
+      <link>http://localhost:1313/proyectos/itcm/clasificacion-hojas/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/itcm/clasificacion-hojas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clasificador Fluidos</title>
+      <link>http://localhost:1313/proyectos/itcm/rna-itcm/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/itcm/rna-itcm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fallo Motores</title>
+      <link>http://localhost:1313/proyectos/itcm/fallo-motores/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/itcm/fallo-motores/</guid>
       <description></description>
     </item>
   </channel>

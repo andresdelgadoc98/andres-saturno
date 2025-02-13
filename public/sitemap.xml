@@ -23,7 +23,7 @@
     <loc>http://localhost:1313/tags/optimizaci%C3%B3n/</loc>
     <lastmod>2023-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/proyectos/optimizacion-dise%C3%B1o/</loc>
+    <loc>http://localhost:1313/proyectos/oil-assement/optimizacion-dise%C3%B1o/</loc>
     <lastmod>2023-04-03T23:29:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/perforaci%C3%B3n/</loc>
@@ -38,7 +38,7 @@
     <loc>http://localhost:1313/tags/reporte/</loc>
     <lastmod>2023-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/proyectos/reporte-diario/</loc>
+    <loc>http://localhost:1313/proyectos/oil-assement/reporte-diario/</loc>
     <lastmod>2023-04-03T23:29:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -56,13 +56,34 @@
     <loc>http://localhost:1313/tags/agente/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/proyectos/tommy-bot/</loc>
+    <loc>http://localhost:1313/proyectos/susess/tommy-bot/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/agricola/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/proyectos/itcm/analisis-sentimientos-canciones/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/analisis-de-sentimientos/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/android-studio/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/aplicaci%C3%B3n/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/app/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/geo-estratos/app-telemetria/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/aprendizaje-autom%C3%A1tico/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/arduino/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/b---geo-estratos/</loc>
@@ -71,25 +92,58 @@
     <loc>http://localhost:1313/tags/bast%C3%B3n/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/proyectos/variables-agricultura/</loc>
+    <loc>http://localhost:1313/proyectos/geo-estratos/variables-agricultura/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/chatbot/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/proyectos/itcm/chatbot-sensores/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/oil-assement/prediccion-cimas/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/clasificaci%C3%B3n/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/oil-assement/clasificacion-fluidos/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/itcm/clasificacion-hojas/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/clasificador/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/proyectos/clasification-documentos/</loc>
+    <loc>http://localhost:1313/proyectos/susess/clasification-documentos/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/proyectos/rna-itcm/</loc>
+    <loc>http://localhost:1313/proyectos/itcm/rna-itcm/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/d----instituto-tecnol%C3%B3gico-de-ciudad-madero/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dom%C3%B3tica/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/esp32/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/itcm/fallo-motores/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/oil-assement/prediccion-filtrado/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gateway/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/geo-estratos/gateway/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hojas/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/inteligencia-artificial/</loc>
@@ -104,20 +158,29 @@
     <loc>http://localhost:1313/tags/openai/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/plantas/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/geo-estratos/prediccion-tomate/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/python/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/redes-neuronales/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/proyectos/domotica/</loc>
+    <loc>http://localhost:1313/tags/sensores/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/geo-estratos/domotica/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/telemetr%C3%ADa/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tesis/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/android-studio/</loc>
-    <lastmod>2020-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/app/</loc>
-    <lastmod>2020-04-03T22:53:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/e---freelancer-/-propios/</loc>
     <lastmod>2020-04-03T22:53:58+05:30</lastmod>
@@ -125,7 +188,7 @@
     <loc>http://localhost:1313/tags/rutas/</loc>
     <lastmod>2020-04-03T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/proyectos/rutas/</loc>
+    <loc>http://localhost:1313/proyectos/free-lancer/rutas/</loc>
     <lastmod>2020-04-03T22:53:58+05:30</lastmod>
   </url>
 </urlset>

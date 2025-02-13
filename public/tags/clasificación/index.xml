@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clasificación on Andrés Delgado Desarollador</title>
+    <link>http://localhost:1313/tags/clasificaci%C3%B3n/</link>
+    <description>Recent content in Clasificación on Andrés Delgado Desarollador</description>
+    <generator>Hugo</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Sat, 03 Apr 2021 22:41:10 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/clasificaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cimas Geológicas</title>
+      <link>http://localhost:1313/proyectos/oil-assement/prediccion-cimas/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/oil-assement/prediccion-cimas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clasificación Fluidos</title>
+      <link>http://localhost:1313/proyectos/oil-assement/clasificacion-fluidos/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/oil-assement/clasificacion-fluidos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filtrado de Agua</title>
+      <link>http://localhost:1313/proyectos/oil-assement/prediccion-filtrado/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/oil-assement/prediccion-filtrado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prediccion Tomate</title>
+      <link>http://localhost:1313/proyectos/geo-estratos/prediccion-tomate/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/geo-estratos/prediccion-tomate/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

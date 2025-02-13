@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/bast%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bastón Agricola</title>
-      <link>http://localhost:1313/proyectos/variables-agricultura/</link>
+      <link>http://localhost:1313/proyectos/geo-estratos/variables-agricultura/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/variables-agricultura/</guid>
+      <guid>http://localhost:1313/proyectos/geo-estratos/variables-agricultura/</guid>
       <description></description>
     </item>
   </channel>

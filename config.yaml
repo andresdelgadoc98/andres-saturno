@@ -126,7 +126,7 @@ params:
     enable: true
     intro: "Hola! Soy Master en Ciencias de la Computación y mi Nombre es:"
     title: "Andrés Delgado."
-    content: "Un apasionado desarrollador de Inteligencia Artificial. Desarrollo algoritmos de Machine Learning hasta implementación de modelos de lenguaje (LLMs) como ChatGPT. "
+    content: "Un apasionado desarrollador de Inteligencia Artificial. Desarrollo algoritmos de Machine Learning hasta implementación de modelos de lenguaje (LLMs) como ChatGPT. Email: andresdelgadoc98@gmail.com"
     image: /images/yo2.png
     bottomImage:
       enable: false
@@ -194,7 +194,7 @@ params:
           enable: false
         featuredLink:
           enable: false
-          url: "https://example.com"
+          url: "#"
         content: |
           En esta empresa trabaje junto a especialistas en Geología, Electrónica, Petrolera, Agriculturores para el desarollo de sistemas que permitan mejorar la producción, 
           centrado principalmente en las tecnologías IoT (Internet de las Cosas)
@@ -238,7 +238,7 @@ params:
           enable: false
         featuredLink:
           enable: false
-          url: "https://example.com"
+          url: "#"
         content: |
           Fue mi primer contacto con Clientes, en donde desarolle una App para el manejor de repartidores, obteniendo la oportunidad de aprender el levantamiento de requisitos y trato con el cliente
           - App de manejor de rutas.

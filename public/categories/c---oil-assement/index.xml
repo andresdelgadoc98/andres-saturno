@@ -9,17 +9,45 @@
     <lastBuildDate>Mon, 03 Apr 2023 23:29:21 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/c---oil-assement/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Optimización Diseño&#34;</title>
-      <link>http://localhost:1313/proyectos/optimizacion-dise%C3%B1o/</link>
+      <title>Optimización Diseño</title>
+      <link>http://localhost:1313/proyectos/oil-assement/optimizacion-dise%C3%B1o/</link>
       <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/optimizacion-dise%C3%B1o/</guid>
+      <guid>http://localhost:1313/proyectos/oil-assement/optimizacion-dise%C3%B1o/</guid>
       <description></description>
     </item>
     <item>
       <title>Reporte Diario</title>
-      <link>http://localhost:1313/proyectos/reporte-diario/</link>
+      <link>http://localhost:1313/proyectos/oil-assement/reporte-diario/</link>
       <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/proyectos/reporte-diario/</guid>
+      <guid>http://localhost:1313/proyectos/oil-assement/reporte-diario/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cimas Geológicas</title>
+      <link>http://localhost:1313/proyectos/oil-assement/prediccion-cimas/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/oil-assement/prediccion-cimas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clasificación Fluidos</title>
+      <link>http://localhost:1313/proyectos/oil-assement/clasificacion-fluidos/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/oil-assement/clasificacion-fluidos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filtrado de Agua</title>
+      <link>http://localhost:1313/proyectos/oil-assement/prediccion-filtrado/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/oil-assement/prediccion-filtrado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prediccion Tomate</title>
+      <link>http://localhost:1313/proyectos/geo-estratos/prediccion-tomate/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/geo-estratos/prediccion-tomate/</guid>
       <description></description>
     </item>
   </channel>
