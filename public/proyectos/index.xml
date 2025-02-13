@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 03 Apr 2023 23:29:21 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/proyectos/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Optimización Diseño&#34;</title>
+      <link>http://localhost:1313/proyectos/optimizacion-dise%C3%B1o/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/optimizacion-dise%C3%B1o/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Reporte Diario</title>
       <link>http://localhost:1313/proyectos/reporte-diario/</link>
       <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
@@ -21,6 +28,13 @@
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
       <guid>http://localhost:1313/proyectos/tommy-bot/</guid>
       <description>&lt;h1 id=&#34;chatbot-inteligente-pantadocs-tu-asistente-técnico-basado-en-ia&#34;&gt;ChatBot Inteligente Pantadocs: Tu Asistente Técnico Basado en IA&lt;/h1&gt;&#xA;&lt;p&gt;En el mundo de la tecnología, los chatbots se han convertido en herramientas esenciales para brindar respuestas rápidas y precisas. &lt;strong&gt;Pantadocs&lt;/strong&gt; es un &lt;strong&gt;ChatBot inteligente&lt;/strong&gt; diseñado para ayudarte a encontrar información técnica de manera eficiente, utilizando técnicas avanzadas de inteligencia artificial (IA) y procesamiento de lenguaje natural.&lt;/p&gt;&#xA;&lt;h2 id=&#34;cómo-funciona-pantadocs&#34;&gt;¿Cómo funciona Pantadocs?&lt;/h2&gt;&#xA;&lt;p&gt;Pantadocs utiliza un sistema llamado &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt;, que combina la búsqueda de información en documentos técnicos con la capacidad de generar respuestas claras y contextualizadas. Aquí te explicamos cómo trabaja:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bastón Agricola</title>
+      <link>http://localhost:1313/proyectos/variables-agricultura/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/proyectos/variables-agricultura/</guid>
+      <description></description>
     </item>
     <item>
       <title>Clasificador Documentos</title>

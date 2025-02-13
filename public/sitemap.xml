@@ -11,10 +11,22 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2023-04-03T23:29:21+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/dise%C3%B1o/</loc>
+    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/geo-ciencias/</loc>
     <lastmod>2023-04-03T23:29:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/node-js/</loc>
+    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/optimizaci%C3%B3n/</loc>
+    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/optimizacion-dise%C3%B1o/</loc>
+    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/perforaci%C3%B3n/</loc>
     <lastmod>2023-04-03T23:29:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/proyectos/</loc>
@@ -32,6 +44,9 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-04-03T23:29:21+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/tuber%C3%ADa/</loc>
+    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
@@ -44,10 +59,19 @@
     <loc>http://localhost:1313/proyectos/tommy-bot/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/agricola/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/aplicaci%C3%B3n/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/b---geo-estratos/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bast%C3%B3n/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/variables-agricultura/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/chatbot/</loc>
@@ -69,6 +93,9 @@
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/inteligencia-artificial/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/inteligente/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/iot/</loc>
