@@ -71,7 +71,7 @@ header .navbar.animate {
 /* hero */
 
 #hero {
-    min-height: auto; /* O un valor específico como 600px */
+    min-height: auto;
     line-height: 2rem;
     max-width: 100%;
 }
