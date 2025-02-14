@@ -283,7 +283,7 @@ params:
 
   projects:
     enable: true
-    title: "Projects Recientes"
+    title: "Projectos Recientes"
     items:
       - title: Agente de Asistencia Técnica (RAG)
         content: Agente ChatBot que de acuerdo a una pregunta del usuario búsca información de documentos técnicos
