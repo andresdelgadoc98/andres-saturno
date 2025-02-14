@@ -15,11 +15,11 @@ categories: ["A - Grupo Susess"]
 
 # ChatBot Inteligente Pantadocs: Tu Asistente Técnico Basado en IA
 
-En el mundo de la tecnología, los chatbots se han convertido en herramientas esenciales para brindar respuestas rápidas y precisas. **Pantadocs** es un **ChatBot inteligente** diseñado para ayudarte a encontrar información técnica de manera eficiente, utilizando técnicas avanzadas de inteligencia artificial (IA) y procesamiento de lenguaje natural.
+En el mundo de la tecnología, los chatbots se han convertido en herramientas esenciales para brindar respuestas rápidas y precisas. **Tommy** es un **ChatBot inteligente** diseñado para ayudarte a encontrar información técnica de manera eficiente, utilizando técnicas avanzadas de inteligencia artificial (IA) y procesamiento de lenguaje natural.
 
 ## ¿Cómo funciona Pantadocs?
 
-Pantadocs utiliza un sistema llamado **RAG (Retrieval-Augmented Generation)**, que combina la búsqueda de información en documentos técnicos con la capacidad de generar respuestas claras y contextualizadas. Aquí te explicamos cómo trabaja:
+Tommy utiliza un sistema llamado **RAG (Retrieval-Augmented Generation)**, que combina la búsqueda de información en documentos técnicos con la capacidad de generar respuestas claras y contextualizadas. Aquí te explicamos cómo trabaja:
 
 1. **Pregunta del Usuario**: Tú haces una pregunta, como por ejemplo: _"¿Cuál es el voltaje de operación de un sensor de presión?"_.
 
@@ -29,17 +29,17 @@ Pantadocs utiliza un sistema llamado **RAG (Retrieval-Augmented Generation)**, q
 
 4. **Generación de Respuestas**: Usando un modelo de lenguaje avanzado, el sistema genera una respuesta clara y precisa basada en los documentos encontrados.
 
-5. **Respuesta al Usuario**: Finalmente, Pantadocs te devuelve la respuesta en un lenguaje sencillo y fácil de entender.
+5. **Respuesta al Usuario**: Finalmente, Tommy te devuelve la respuesta en un lenguaje sencillo y fácil de entender.
 
 ![Flujo de interacción del ChatBot Inteligente Pantadocs](/images/projects/flujo.png)  
 _Fig. 1: Flujo de interacción del ChatBot Inteligente Pantadocs_
 
 ## ¿Por qué Pantadocs es especial?
 
-- **Precisión**: Gracias a la combinación de búsqueda y generación de texto, Pantadocs ofrece respuestas exactas y útiles.
+- **Precisión**: Gracias a la combinación de búsqueda y generación de texto, Tommy ofrece respuestas exactas y útiles.
 - **Facilidad de Uso**: No necesitas ser un experto en tecnología para interactuar con él. Solo haz tu pregunta y obtén una respuesta.
 - **Adaptabilidad**: Puede trabajar con diferentes tipos de documentos, como manuales técnicos, guías o especificaciones.
 
 ## ¿Cómo empezar a usarlo?
 
-Pantadocs está diseñado para ser accesible y fácil de usar. Si eres parte de un equipo técnico o simplemente necesitas respuestas rápidas, este chatbot puede ser tu mejor aliado. ¡Prueba Pantadocs y descubre cómo la IA puede simplificar tu trabajo!!!
+Tommy está diseñado para ser accesible y fácil de usar. Si eres parte de un equipo técnico o simplemente necesitas respuestas rápidas, este chatbot puede ser tu mejor aliado. ¡Prueba Tommy y descubre cómo la IA puede simplificar tu trabajo!!!

@@ -1,0 +1,362 @@
+baseURL: "https://www.andres-delgado.com/"
+languageCode: "es-mx"
+title: "Andrés Delgado Desarollador"
+theme: hugo-profile
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+pagination.pagerSize: 3
+enableRobotsTXT: true
+# disqusShortname: your-disqus-shortname
+# googleAnalytics: G-MEASUREMENT_ID
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Menus eliminados o sección vacía
+Menus:
+  main:
+    - identifier: Proyectos
+      name: Proyectos
+      title: Proyectos
+      url: /Proyectos
+      weight: 1
+
+    #Dropdown menu
+    # - identifier: dropdown
+    #   title: Example dropdown menu
+    #   name: Dropdown
+    #   weight: 3
+    # - identifier: dropdown1
+    #   title: example dropdown 1
+    #   name: example 1
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 1
+    # - identifier: dropdown2
+    #   title: example dropdown 2
+    #   name: example 2
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 2
+
+params:
+  title: "Andrés Delgado"
+  description: Apasionado por la Inteligencia Artificial y el Desarollo de Software
+  # staticPath: ""  # The path to serve the static files from
+  favicon: "/fav.png"
+
+  # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
+  # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
+  # Note the lack of "" in true, it should be of boolean type.
+  useBootstrapCDN: false
+
+  # If you want to load dynamically responsive images from Cloudinary
+  # This requires your images to be uploaded + hosted on Cloudinary
+  # Uncomment and change YOUR_CLOUD_NAME to the Cloud Name in your Cloudinary console
+  # cloudinary_cloud_name: "YOUR_CLOUD_NAME"
+
+  # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
+  mathjax: false
+
+  # Whether the fade animations on the home page will be enabled
+  animate: true
+
+  theme:
+    disableThemeToggle: true
+    defaultTheme: dark # "light"
+
+  font:
+    fontSize: 1rem # default: 1rem
+    fontWeight: 400 # default: 400
+    lineHeight: 1.5 # default: 1.5
+    textAlign: left # default: left
+
+  # color preference
+  # When using hex codes for colors, quotations must be used along with the # sign
+  # color:
+  #   textColor: "#343a40"
+  #   secondaryTextColor: "#6c757d"
+  #   textLinkColor: "#007bff"
+  #   backgroundColor: "#eaedf0"
+  #   secondaryBackgroundColor: "#64ffda1a"
+  #   primaryColor: "#007bff"
+  #   secondaryColor: "#f8f9fa"
+
+  #   darkmode:
+  #     textColor: "#e4e6eb"
+  #     secondaryTextColor: "#b0b3b8"
+  #     textLinkColor: "#ffffff"
+  #     backgroundColor: "#18191a"
+  #     secondaryBackgroundColor: "#212529"
+  #     primaryColor: "#ffffff"
+  #     secondaryColor: "#212529"
+
+  # If you want to customize the menu, you can change it here
+  navbar:
+    align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+    # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+    # showBrandLogo: false # Show brand logo in nav bar | default is true
+    brandName: "Andrés Delgado" # Brand name for the brand | default is the title variable
+    disableSearch: true
+    # searchPlaceholder: "Search"
+    stickyNavBar:
+      enable: true
+      showOnScrollUp: true
+    enableSeparator: false
+    menus:
+      disableAbout: false
+      disableExperience: false
+      disableEducation: false
+      disableProjects: true
+      disableAchievements: false
+      disableContact: false
+
+  # Hero
+  hero:
+    enable: true
+    intro: "Hola! Soy Master en Ciencias de la Computación y mi Nombre es:"
+    title: "Andrés Delgado."
+    content: "Un apasionado desarrollador de Inteligencia Artificial. Desarrollo algoritmos de Machine Learning hasta implementación de modelos de lenguaje (LLMs) como ChatGPT. Email: andresdelgadoc98@gmail.com"
+    image: /images/yo3.jpeg
+    bottomImage:
+      enable: false
+    # roundImage: true # Make hero image circular | default false
+    button:
+      enable: true
+      name: "Curriculum Vitae (CV)"
+      url: "curriculum.pdf"
+      download: true
+      newPage: false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://github.com/andresdelgadoc98
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/carlos-andrés-delgado-9788a91a8/
+        - icon: fab fa-instagram
+          url: https://www.instagram.com/rockarlandy/
+
+  # About
+  about:
+    enable: true
+    title: "Acerca de Mí"
+    image: "/images/yo.png"
+    roundImage: false
+    content: |-
+      Soy un apasionado en el mundo de los datos con una fuerte inclinación hacia el desarrollo de soluciones tecnológicas innovadoras, especialmente en el ámbito del Internet de las Cosas (IoT), en dónde he colaborado en proyectos de domótica, petróleo, electrónica, geología, agronomía por lo cual me encanta aprender de diversas áreas sobre todo si se trata de la aplicación de Inteligencia Artificial.
+
+      A lo largo de mi carrera, he liderado la implementación de proyectos que integran hardware y software para sistemas IoT, diseñando soluciones que no solo mejoran las operaciones diarias sino que también abren nuevas vías para la innovación y eficiencia. Mi expertise abarca desde la creación de modelos predictivos y sistemas de telemetría hasta el desarrollo de clasificadores avanzados para análisis de fluidos. Además, tengo experiencia en la implementación de sistemas de Recuperación-Augmentada de Generación (RAG), aplicando técnicas avanzadas para optimizar la precisión y relevancia en la generación de respuestas, lo cual es clave para aplicaciones basadas en LLMs y otras áreas de Inteligencia Artificial.
+    skills:
+      enable: false
+      title: "Here are a few technologies I've been working with recently:"
+      items:
+        - "HTML"
+        - "CSS"
+        - "JavaScript"
+        - "React"
+        - "Node"
+
+  # Experience
+  experience:
+    enable: true
+    title: "Experiencia"
+    items:
+      - job: "Machine Learning Engineer"
+        company: "Grupo Susess"
+        companyUrl: "https://susess.com"
+        date: "Octubre 2024 - Presente"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        content:
+          Es mi actual trabajo en dónde desempeño el rol de Machine Learing Engineer, desarollando principalmente solución en modelos de lenguaje natural como ChatGPT, LLama, Gemma
+
+          - Agente ChatBot para la búsqueda de información en bilbioteca de documentos.
+
+          - Algoritmo para la Clasificación automaticamenta de documentos.
+
+      - job: "Project Manager Developer"
+        company: "Geo Estratos Soluciones - Oil Assement Express"
+        companyUrl: "#"
+        date: "Diciembre 2020 - Octubre 2024"
+        info:
+          enable: false
+        featuredLink:
+          enable: false
+          url: "#"
+        content: |
+          En esta empresa trabaje junto a especialistas en Geología, Electrónica, Petrolera, Agriculturores para el desarollo de sistemas que permitan mejorar la producción, 
+          centrado principalmente en las tecnologías IoT (Internet de las Cosas)
+
+          - Sistema de dómtica: Sistema Completo en dónde interactuaba una App con sensores.
+          - Recolector de variables para agricultura: Bastón inalámbrico capaz de medir variables del suelo y ambientales conectado através de una APP
+          - Aplicación Móvil para Telemetría:  Aplicación capaz de controlar electroválvulas para multiples usos
+          - Aplicación Web Para Telemetría:  Aplicación web capaz de monitorear sensores en tiempo real orientado a Pozos Petroleros
+          - Desarollo de  Gateway con Microcontrolador ESP32: Desarollo Tecnológico de una gateway capaz de recoletar y enviar señales de sensores vía inalmbrica a un servidor remoto.
+          - Reporte Geociencias para datos de perforaciónde pozos: Desarollo de una plataforma para la subida de información de pozos petroleros
+          - Algoritmo de Clasificación de Flujos de Aire y Agua Basado en Vibraciones: Investigación para el desarollo de algoritmos capaz de disernir entre varios Fluidos.
+          - Predicción del precio de tomate mediante series de tiempo: Algoritmo de predicción para pronosticar el precio del tomate a lo largo del tiempo
+          - Predicción de filtración de agua en pozos petroleros: Proyecto basado en datos historicos de un Pozo para determinar la cantidad de Flujo a extraer para minimizar la filtración de agua.
+          - Predicción de Cimas Geológica: Desarollo de algoritmos para la predicción de un acercamiento a una cima o evento geologíco en perforación
+
+      - job: "Educación"
+        company: "Instituto Tecnologíco de Ciudad Madero"
+        companyUrl: "#"
+        date: "Junio 2016 - Diciembre 2024"
+        info:
+          enable: false
+        featuredLink:
+          enable: false
+          url: "#"
+        content: |
+          Serie de trabajos terminados para clases de Ingeniería y Maestría
+
+          - Clasificación de fallas de motores.
+
+          - Analisis de Sentimientos de canciones.
+
+          - ChatBot conectado a Sensores.
+
+          - Clasificación de hojas de plantas.
+
+      - job: "Developer"
+        company: "Free Lancer"
+        companyUrl: "#"
+        date: "Junio 2020 - Diciembre 2020"
+        info:
+          enable: false
+        featuredLink:
+          enable: false
+          url: "#"
+        content: |
+          Fue mi primer contacto con Clientes, en donde desarolle una App para el manejor de repartidores, obteniendo la oportunidad de aprender el levantamiento de requisitos y trato con el cliente
+          - App de manejor de rutas.
+
+  education:
+    enable: true
+    title: "Educación"
+    index: false
+    items:
+      - title: "Maestría en Ciencias de la Computación"
+        school:
+          name: "Instituto Tecnológico de Ciudad Madero"
+          url: "https://www.cdmadero.tecnm.mx"
+        date: "2022 - 2024"
+
+        content: |-
+          Actividades Importantes: 
+            - Tesis: "Análisis Computacional para la Clasificación de Fluidos Mediante Vibraciones y Herramientas de Aprendizaje Automatizado" 
+            - Conferencia: "Clasificación de Fluidos mediante Vibraciones y Aprendizaje Automático". en Cd. Victoria." En noviembre del 2023  Encuentro de Jóvenes Investigadores
+            - Taller:  "Ciencia de Datos aplicado a Química" congreso de CONEIQ 2024
+
+      - title: "Ingeniería en Sistemas Computacionales"
+        school:
+          name: "Instituto Tecnológico de Ciudad Madero"
+          url: "https://www.cdmadero.tecnm.mx"
+        date: "2016 - 2020"
+        content: |-
+
+          Actividades Importantes: 
+            - Desarollo de Bastón Agricola.
+            - Participación en eventos nacionales de Arte y Cultura
+
+      - title: "Técnico en Electricidad"
+        school:
+          name: "Cetis 109"
+          url: "https://cetis109.edu.mx"
+        date: "2012 - 2016"
+        content: |-
+
+          Actividades Importantes: 
+            - Participan en eventos culturales con banda march.
+
+  projects:
+    enable: true
+    title: "Projects Recientes"
+    items:
+      - title: Agente de Asistencia Técnica (RAG)
+        content: Agente ChatBot que de acuerdo a una pregunta del usuario búsca información de documentos técnicos
+        image: /images/projects/docu_bot.png
+        featured:
+          name: Ver más
+          link: https://www.andres-delgado.com/proyectos/tommy-bot/
+        badges:
+          - "RAG"
+          - "Agente"
+          - "OPENAI"
+          - "Python"
+
+      - title: Algoritmo para Clasificación de Fluidos
+        content: Desarollo de Algoritmo para la clasificación de fluidos para la industría del Petróleo y Gas utilizando Redes Neuonales Artificiales.
+        image: /images/projects/algoritmo.png
+        featured:
+          name: Ver más
+          link: https://www.andres-delgado.com/proyectos/rna-itcm/
+        badges:
+          - "Redes Neuronales"
+          - "Python"
+          - "Clasificación"
+
+      - title: Optimización para el diseño de Tubería de perforación
+        content: Desarollo de un Modelo de Optimización para el diseño de tubería de peforación
+        image: /images/projects/horizontal.png
+        featured:
+          name: Ver más
+          link: https://www.andres-delgado.com/proyectos/optimizacion-diseño/
+        badges:
+          - "Optimización"
+          - "Peforación"
+
+  footer:
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: Recent Posts
+      enable: false
+      disableFeaturedImage: false
+
+    socialNetworks:
+      github: https://github.com/andresdelgadoc98
+      linkedin: https://www.linkedin.com/in/carlos-andrés-delgado-9788a91a8/
+
+  # List pages like blogs and posts
+  listPages:
+    disableFeaturedImage: false
+
+  # Single pages like blog and post
+  singlePages:
+    socialShare: false
+    readTime:
+      enable: true
+      content: "min read"
+    scrollprogress:
+      enable: true
+    tags:
+      openInNewTab: true
+
+  # For translations
+  terms:
+    read: "Ver Más"
+    toc: "Table Of Contents"
+    copyright: "All rights reserved"
+    pageNotFound: "Page not found"
+    emailText: "Check out this site"
+
+  datesFormat:
+    article: "Jan 2, 2006"
+    articleList: "Jan 2, 2006"
+    articleRecent: "Jan 2, 2006"
+
+  #customScripts: -| # You can add custom scripts which will be added before </body> tag
+  #  <script type="text/javascript"><!-- any script here --></script>

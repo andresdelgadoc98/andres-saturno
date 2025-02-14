@@ -31,7 +31,7 @@
 <meta property="og:url" content="http://localhost:1313/proyectos/susess/clasification-documentos/">
   <meta property="og:site_name" content="Andrés Delgado Desarollador">
   <meta property="og:title" content="Clasificador Documentos">
-  <meta property="og:description" content="Sistema basado en Computing Vision para obtener información de documentos técnicos.">
+  <meta property="og:description" content="Clasificación masiva de documentos, eliminando la necesidad de que los usuarios tengan que subir archivos uno por uno a un sistema gestor de documentos. En su lugar, el sistema permite la carga de múltiples archivos y realiza una clasificación automática de los mismos">
   <meta property="og:locale" content="es_mx">
   <meta property="og:type" content="article">
     <meta property="article:section" content="proyectos">
@@ -40,11 +40,13 @@
     <meta property="article:tag" content="OPENAI">
     <meta property="article:tag" content="Agente">
     <meta property="article:tag" content="Clasificador">
+    <meta property="article:tag" content="Python">
+    <meta property="article:tag" content="LangChain">
 
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Clasificador Documentos">
-  <meta name="twitter:description" content="Sistema basado en Computing Vision para obtener información de documentos técnicos.">
+  <meta name="twitter:description" content="Clasificación masiva de documentos, eliminando la necesidad de que los usuarios tengan que subir archivos uno por uno a un sistema gestor de documentos. En su lugar, el sistema permite la carga de múltiples archivos y realiza una clasificación automática de los mismos">
 
 
 <link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
@@ -108,7 +110,7 @@
 
 
 
-<meta name="description" content="Sistema basado en Computing Vision para obtener información de documentos técnicos.">
+<meta name="description" content="Clasificación masiva de documentos, eliminando la necesidad de que los usuarios tengan que subir archivos uno por uno a un sistema gestor de documentos. En su lugar, el sistema permite la carga de múltiples archivos y realiza una clasificación automática de los mismos">
 <link rel="stylesheet" href="/css/single.css">
 
 
@@ -284,37 +286,28 @@ Clasificador Documentos | Andrés Delgado Desarollador
           </div>
           
           <article class="page-content  p-2">
-          <h1 id="chatbot-inteligente-pantadocs-tu-asistente-técnico-basado-en-ia">ChatBot Inteligente Pantadocs: Tu Asistente Técnico Basado en IA</h1>
-<p>En el mundo de la tecnología, los chatbots se han convertido en herramientas esenciales para brindar respuestas rápidas y precisas. <strong>Pantadocs</strong> es un <strong>ChatBot inteligente</strong> diseñado para ayudarte a encontrar información técnica de manera eficiente, utilizando técnicas avanzadas de inteligencia artificial (IA) y procesamiento de lenguaje natural.</p>
-<h2 id="cómo-funciona-pantadocs">¿Cómo funciona Pantadocs?</h2>
-<p>Pantadocs utiliza un sistema llamado <strong>RAG (Retrieval-Augmented Generation)</strong>, que combina la búsqueda de información en documentos técnicos con la capacidad de generar respuestas claras y contextualizadas. Aquí te explicamos cómo trabaja:</p>
-<ol>
-<li>
-<p><strong>Pregunta del Usuario</strong>: Tú haces una pregunta, como por ejemplo: <em>&quot;¿Cuál es el voltaje de operación de un sensor de presión?&quot;</em>.</p>
-</li>
-<li>
-<p><strong>Extracción de Palabras Clave</strong>: El sistema identifica las palabras clave de tu pregunta para entender qué estás buscando.</p>
-</li>
-<li>
-<p><strong>Búsqueda en Documentos</strong>: Con esas palabras clave, Pantadocs busca en una base de datos de documentos técnicos para encontrar la información más relevante.</p>
-</li>
-<li>
-<p><strong>Generación de Respuestas</strong>: Usando un modelo de lenguaje avanzado, el sistema genera una respuesta clara y precisa basada en los documentos encontrados.</p>
-</li>
-<li>
-<p><strong>Respuesta al Usuario</strong>: Finalmente, Pantadocs te devuelve la respuesta en un lenguaje sencillo y fácil de entender.</p>
-</li>
-</ol>
-<p><img src="/images/projects/flujo.png" alt="Flujo de interacción del ChatBot Inteligente Pantadocs"><br>
-<em>Fig. 1: Flujo de interacción del ChatBot Inteligente Pantadocs</em></p>
-<h2 id="por-qué-pantadocs-es-especial">¿Por qué Pantadocs es especial?</h2>
+          <h1 id="clasificación-automática-de-documentos">Clasificación Automática de Documentos</h1>
+<h2 id="descripción-del-proyecto">Descripción del Proyecto</h2>
+<p>Este proyecto tiene como objetivo principal facilitar la clasificación masiva de documentos, eliminando la necesidad de que los usuarios tengan que subir archivos uno por uno a un sistema gestor de documentos. En su lugar, el sistema permite la carga de múltiples archivos y realiza una clasificación automática de los mismos.</p>
+<h2 id="tecnologías-utilizadas">Tecnologías Utilizadas</h2>
 <ul>
-<li><strong>Precisión</strong>: Gracias a la combinación de búsqueda y generación de texto, Pantadocs ofrece respuestas exactas y útiles.</li>
-<li><strong>Facilidad de Uso</strong>: No necesitas ser un experto en tecnología para interactuar con él. Solo haz tu pregunta y obtén una respuesta.</li>
-<li><strong>Adaptabilidad</strong>: Puede trabajar con diferentes tipos de documentos, como manuales técnicos, guías o especificaciones.</li>
+<li><strong>Computing Vision</strong>: Integrado con modelos de lenguaje grandes (LLM) para obtener referencias y mejorar la precisión en la clasificación.</li>
+<li><strong>Sistemas de Embeddings</strong>: Utilizados para la búsqueda y coincidencia de palabras clave dentro de los documentos.</li>
+<li><strong>Conexión a Base de Datos</strong>: El sistema se conecta a la base de datos del negocio para obtener recomendaciones de categorías previamente establecidas, facilitando así una clasificación más precisa y consistente.</li>
+<li><strong>Python Como Lenguaje de Programación</strong>: Aprovechando las librerias más eficientes y actuales como LangChain hacen de python el lenguaje por exelencia para este tipo de proyectos.</li>
 </ul>
-<h2 id="cómo-empezar-a-usarlo">¿Cómo empezar a usarlo?</h2>
-<p>Pantadocs está diseñado para ser accesible y fácil de usar. Si eres parte de un equipo técnico o simplemente necesitas respuestas rápidas, este chatbot puede ser tu mejor aliado. ¡Prueba Pantadocs y descubre cómo la IA puede simplificar tu trabajo!!!</p>
+<h2 id="funcionalidades-clave">Funcionalidades Clave</h2>
+<ul>
+<li><strong>Carga Masiva de Documentos</strong>: Permite a los usuarios subir múltiples archivos simultáneamente.</li>
+<li><strong>Clasificación Automática</strong>: Utiliza avanzadas técnicas de procesamiento de lenguaje natural y visión por computadora para clasificar los documentos automáticamente.</li>
+<li><strong>Recomendaciones de Categorías</strong>: Integra con la base de datos del negocio para sugerir categorías basadas en clasificaciones anteriores.</li>
+</ul>
+<h2 id="beneficios">Beneficios</h2>
+<ul>
+<li><strong>Eficiencia</strong>: Reduce significativamente el tiempo necesario para clasificar documentos.</li>
+<li><strong>Precisión</strong>: Mejora la exactitud de la clasificación mediante el uso de tecnologías avanzadas.</li>
+<li><strong>Escalabilidad</strong>: Capaz de manejar grandes volúmenes de documentos sin comprometer el rendimiento al utilizar sistemas en paralelo para procesar la información.</li>
+</ul>
 
           </article>
         </div>
@@ -329,9 +322,10 @@ Clasificador Documentos | Andrés Delgado Desarollador
               <div class="toc-content">
                 <nav id="TableOfContents">
   <ul>
-    <li><a href="#cómo-funciona-pantadocs">¿Cómo funciona Pantadocs?</a></li>
-    <li><a href="#por-qué-pantadocs-es-especial">¿Por qué Pantadocs es especial?</a></li>
-    <li><a href="#cómo-empezar-a-usarlo">¿Cómo empezar a usarlo?</a></li>
+    <li><a href="#descripción-del-proyecto">Descripción del Proyecto</a></li>
+    <li><a href="#tecnologías-utilizadas">Tecnologías Utilizadas</a></li>
+    <li><a href="#funcionalidades-clave">Funcionalidades Clave</a></li>
+    <li><a href="#beneficios">Beneficios</a></li>
   </ul>
 </nav>
               </div>
@@ -354,6 +348,14 @@ Clasificador Documentos | Andrés Delgado Desarollador
               <li class="list-inline-item"><a href="http://localhost:1313/tags/clasificador"
                 target="_blank"
               >Clasificador</a></li>
+              
+              <li class="list-inline-item"><a href="http://localhost:1313/tags/python"
+                target="_blank"
+              >Python</a></li>
+              
+              <li class="list-inline-item"><a href="http://localhost:1313/tags/langchain"
+                target="_blank"
+              >LangChain</a></li>
               
             </ul>
           </aside>
