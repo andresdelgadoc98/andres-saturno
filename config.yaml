@@ -127,7 +127,7 @@ params:
     intro: "Hola! Soy Master en Ciencias de la Computación y mi Nombre es:"
     title: "Andrés Delgado."
     content: "Un apasionado desarrollador de Inteligencia Artificial. Desarrollo algoritmos de Machine Learning hasta implementación de modelos de lenguaje (LLMs) como ChatGPT. Email: andresdelgadoc98@gmail.com"
-    image: /images/yo2.png
+    image: /images/yo3.jpeg
     bottomImage:
       enable: false
     # roundImage: true # Make hero image circular | default false

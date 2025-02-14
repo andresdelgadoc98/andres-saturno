@@ -128,6 +128,9 @@
     <loc>http://localhost:1313/tags/dom%C3%B3tica/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/e---freelancer-/-propios/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/esp32/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
@@ -181,9 +184,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/tesis/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/e---freelancer-/-propios/</loc>
-    <lastmod>2020-04-03T22:53:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rutas/</loc>
     <lastmod>2020-04-03T22:53:58+05:30</lastmod>
