@@ -2,6 +2,7 @@ baseURL: "https://www.andres-delgado.com/"
 languageCode: "es-mx"
 title: "Andrés Delgado Desarollador"
 theme: hugo-profile
+googleAnalytics: "G-PW4VDE9869"
 
 outputs:
   home:
