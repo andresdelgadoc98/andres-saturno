@@ -4,6 +4,37 @@
   <meta charset="UTF-8">
   <title>{{ .Title }}</title>
   <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+    {{ $cover := "images/convergencia.png" | absURL }}
+  <meta name="description" content="Escucha mi último sencillo: Convergencia">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:title" content="Convergencia — Andrés Saudade">
+  <meta property="og:description" content="Escucha mi último sencillo: Convergencia">
+  <meta property="og:image" content="{{ $cover }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Convergencia — Andrés Saudade">
+  <meta name="twitter:description" content="Escucha mi último sencillo: Convergencia">
+  <meta name="twitter:image" content="{{ $cover }}">
+  <meta name="theme-color" content="#1DB954">
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"MusicRecording",
+    "name":"Convergencia",
+    "byArtist":{"@type":"MusicGroup","name":"Andrés Saudade"},
+    "url":"{{ .Permalink }}",
+    "image":"{{ $cover }}",
+    "sameAs":[
+      "https://open.spotify.com/track/0ocbpfp0mOT6O6XieSINui",
+      "https://music.apple.com/mx/album/convergencia/1831861763?i=1831861766",
+      "https://instagram.com/andres_saudade",
+      "https://youtu.be/gdX7LXAN4Ak"
+    ]
+  }
+  </script>
 </head>
 <body style="background:#111; color:#fff; text-align:center;">
 <div class="linktree-container" style="text-align:center; max-width:500px; margin: 0 auto; padding:2rem;">
