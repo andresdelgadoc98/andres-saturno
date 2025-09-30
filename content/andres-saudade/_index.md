@@ -1,6 +1,6 @@
 ---
 title: "Andrés Saudade"
-url: "/andres-saudade/"
+url: "/saudade/"
 layout: "linktree"
 # draft: true
 ---
